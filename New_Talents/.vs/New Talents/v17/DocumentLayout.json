@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\New Talents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA2018-DCF5-4BE8-8EE3-93EAC08F5B6C}|New Talents.csproj|d:\\miriam\\cursos\\dio.me\\xp inc. - full stack developer\\desafios\\teste-unitarios\\new talents\\new talents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EBA2018-DCF5-4BE8-8EE3-93EAC08F5B6C}|New Talents.csproj|solutionrelative:new talents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B320C7AD-F447-4037-B4E8-9703B536434E}|..\\TesteNewTalent\\TesteNewTalent.csproj|d:\\miriam\\cursos\\dio.me\\xp inc. - full stack developer\\desafios\\teste-unitarios\\testenewtalent\\testenewtalent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B320C7AD-F447-4037-B4E8-9703B536434E}|..\\TesteNewTalent\\TesteNewTalent.csproj|d:\\miriam\\cursos\\dio.me\\xp inc. - full stack developer\\desafios\\teste-unitarios\\testenewtalent\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA2018-DCF5-4BE8-8EE3-93EAC08F5B6C}|New Talents.csproj|d:\\miriam\\cursos\\dio.me\\xp inc. - full stack developer\\desafios\\teste-unitarios\\new talents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA2018-DCF5-4BE8-8EE3-93EAC08F5B6C}|New Talents.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "New Talents",
+              "DocumentMoniker": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\New Talents\\New Talents.csproj",
+              "RelativeDocumentMoniker": "New Talents.csproj",
+              "ToolTip": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\New Talents\\New Talents.csproj",
+              "RelativeToolTip": "New Talents.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T18:39:41.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TesteNewTalent",
+              "DocumentMoniker": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\TesteNewTalent\\TesteNewTalent.csproj",
+              "RelativeDocumentMoniker": "..\\TesteNewTalent\\TesteNewTalent.csproj",
+              "ToolTip": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\TesteNewTalent\\TesteNewTalent.csproj",
+              "RelativeToolTip": "..\\TesteNewTalent\\TesteNewTalent.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T17:42:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\New Talents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\New Talents\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:42:01.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\TesteNewTalent\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TesteNewTalent\\UnitTest1.cs",
+              "ToolTip": "D:\\Miriam\\CURSOS\\DIO.Me\\XP Inc. - Full Stack Developer\\Desafios\\teste-unitarios\\TesteNewTalent\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TesteNewTalent\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:40:32.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
